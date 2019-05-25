@@ -10,3 +10,8 @@ This is a Proof of Concepts (PoC) of using Machine Laerning (ML) and Azure cloud
 
 ![Diagram](https://epena-eso.github.io/UVES_anomaly_detection.svg)
 
+
+Links:
+
+https://github.com/drivendata/cookiecutter-data-science
+
